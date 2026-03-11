@@ -1,6 +1,8 @@
 {
-  "octolens-admin": {
-    "type": "http",
-    "url": "https://octobrain-beta.vercel.app/api/admin/mcp?token=${OCTOLENS_TOKEN}"
+  "mcpServers": {
+    "octolens-admin": {
+      "type": "http",
+      "url": "https://octobrain-beta.vercel.app/api/admin/mcp?token=${OCTOLENS_TOKEN}"
+    }
   }
 }
