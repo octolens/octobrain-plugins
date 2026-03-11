@@ -1,0 +1,5 @@
+{
+  "name": "octolens-admin",
+  "description": "Admin write operations for Octolens organizations — extend trials, manage mentions, keywords, and company info",
+  "version": "1.0.0"
+}

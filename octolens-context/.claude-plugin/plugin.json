@@ -1,0 +1,5 @@
+{
+  "name": "octolens-context",
+  "description": "Query Octolens customer data, billing, mentions, and analytics via remote MCP server",
+  "version": "1.0.0"
+}
