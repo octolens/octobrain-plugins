@@ -1,12 +1,18 @@
 {
+  "name": "octolens-plugins",
+  "owner": {
+    "name": "Octolens"
+  },
   "plugins": [
     {
       "name": "octolens-context",
-      "path": "./octolens-context"
+      "source": "./octolens-context",
+      "description": "Query Octolens customer data, billing, mentions, and analytics via remote MCP server"
     },
     {
       "name": "octolens-admin",
-      "path": "./octolens-admin"
+      "source": "./octolens-admin",
+      "description": "Admin write operations for Octolens organizations"
     }
   ]
 }
