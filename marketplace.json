@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    {
+      "name": "octolens-context",
+      "path": "./octolens-context"
+    },
+    {
+      "name": "octolens-admin",
+      "path": "./octolens-admin"
+    }
+  ]
+}
